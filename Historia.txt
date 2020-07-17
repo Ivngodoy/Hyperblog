@@ -1,0 +1,11 @@
+﻿Esta es mi historia sin tildes
+
+Soy Ivan Godoy, nacido en Colombia
+
+Tiene 21 años de edad
+
+Estudiante de contaduria publica
+
+Parece que estudia pero no es muy disciplinado
+
+Actualmente está estudiando git and github
